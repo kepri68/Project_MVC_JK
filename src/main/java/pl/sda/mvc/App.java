@@ -22,5 +22,10 @@ public class App
         GiantView giantView = new GiantView();
 
         GiantController controller = new GiantController(giantModel, giantView);
+        controller.updateView();
+        controller.setHealth(Health.HEALTH);
+        controller.updateView();
+        controller.setFatigue(Fatigue.TIRED);
+        controller.updateView();
     }
 }
