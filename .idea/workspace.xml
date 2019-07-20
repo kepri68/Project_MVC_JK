@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a06a469-4c35-426c-b896-9cbb998b8344" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/mvc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/mvc/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/mvc/controller/GiantController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/mvc/controller/GiantController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -295,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563624877923</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="W controller sprawiamy, że urzytkownik może tylko w App zmienić np Tired na NOTTIRED ect">
+      <created>1563628350156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563628350156</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -364,7 +369,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stworzenie potworka, funkcji i jego wyświetlenie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stworzenie potworka, funkcji i jego wyświetlenie" />
+    <MESSAGE value="W controller sprawiamy, że urzytkownik może tylko w App zmienić np Tired na NOTTIRED ect" />
+    <option name="LAST_COMMIT_MESSAGE" value="W controller sprawiamy, że urzytkownik może tylko w App zmienić np Tired na NOTTIRED ect" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
